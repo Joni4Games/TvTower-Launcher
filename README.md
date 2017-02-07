@@ -5,3 +5,4 @@ Achtung! Im Moment gibt es nur eine funktionierende Windows-Version in der Launc
 ## Installation
 Man benötigt Python! (erhältlich für Windows, Linux, etc.!)
 ### Zip herunterladen, entpacken und Test.py mit Python starten!
+#### Getestet auf Windows und Linux Mint mit Python-Version 2.7.12
